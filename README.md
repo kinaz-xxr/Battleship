@@ -1,8 +1,5 @@
 # Battleship
 A Battleship Game 
-This is a game I made with JavaFX in highschool. The same is a single-player game where you will be playing against the computer.
-First, you place your ships (press 'ENTER' to place the ship, use the arrow keys to rotate them if you desire).
-Then, you will try to hit the computer's ship by clicking the boxes. 
-I tried to make the computer's moves smarter (instead of moving random) by making it moves by a patter of the ship. For instance, if the computer hit twice, it would choose the box with the same direction for its next move. If that doesn't hit, then it would hit the surrounding boxes. 
-You win by destroying all the enemy's ships. 
-
+This is a game I made with Java and JavaFX library in highschool.\n
+The game is a single-player game where you will be playing against the computer.
+Like an orginal Battleship game, you will place your ships on a 5x5 board. Then you will try to hit the computer's ships by selecting the square. The CPU's moves are enhanced instead of being random so watch out!
